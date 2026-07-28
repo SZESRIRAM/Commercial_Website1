@@ -1,4 +1,4 @@
-<img width="1898" height="831" alt="image" src="https://github.com/user-attachments/assets/dda72519-7e29-471e-a077-62ace1c9291c" /># Ex02 Commercial Website
+# Ex02 Commercial Website
 ## Date:
 
 ## AIM
