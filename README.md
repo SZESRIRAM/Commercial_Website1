@@ -1,5 +1,5 @@
 # Ex02 Commercial Website
-## Date:
+## Date:28/07/26
 
 ## AIM
 To create a commercial website using CSS Flexbox.
